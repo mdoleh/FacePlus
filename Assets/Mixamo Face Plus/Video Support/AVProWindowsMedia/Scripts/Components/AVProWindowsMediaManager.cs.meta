@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e97ef6d0bfd7238498bb990e58ae4ca2
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - _shaderBGRA32: {fileID: 4800000, guid: 54153bfcee26a5a41a36a1f8df5c57f0, type: 3}
+  - _shaderYUY2: {fileID: 4800000, guid: 6f8163253615321489fa569080dfe952, type: 3}
+  - _shaderYUY2_709: {fileID: 4800000, guid: f3f6c4afacdaf104191347034b98ff91, type: 3}
+  - _shaderUYVY: {fileID: 4800000, guid: 9744c5dd73ed9c94c9eceef7ac7aecc4, type: 3}
+  - _shaderYVYU: {fileID: 4800000, guid: 9aa12fce5f0c9dc4da6a63145e07e670, type: 3}
+  - _shaderHDYC: {fileID: 4800000, guid: f8cd0810f12a29f498e6a882baead2f2, type: 3}
+  - _shaderNV12: {fileID: 4800000, guid: dc73ab3804ec95941996e01f8dfec364, type: 3}
+  executionOrder: 100
+  icon: {instanceID: 0}
+  userData: 

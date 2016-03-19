@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 865411cfa3721d24f9a6a8b679c8121a
+labels:
+- DIRECTSHOW
+- MOVIE
+- VIDEO
+- AVI
+- WMV
+- MEDIA
+- MP4
+- H264
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

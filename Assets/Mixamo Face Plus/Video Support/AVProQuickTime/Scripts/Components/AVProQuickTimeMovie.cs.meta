@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 6ef463e92b4a43148908e2dbd7444ed0
+labels:
+- QUICKTIME
+- MOVIE
+- VIDEO
+- PLAYBACK
+- STREAMING
+- MOV
+- MP4
+- AAC
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 100
+  icon: {instanceID: 0}
+  userData: 
